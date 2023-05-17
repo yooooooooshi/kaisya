@@ -1,0 +1,145 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+header {
+  background-color: #000000;
+  color: white;
+  padding: 20px;
+}
+
+header img {
+  width: 100px;
+  animation: rotate 5s linear infinite;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #0000ff;
+}
+
+main {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.products {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.products li {
+  background-color: #cccccc;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.products li h3 {
+  font-size: 1.2em;
+  margin-top: 0;
+}
+
+.products li p {
+  margin-top: 10px;
+}
+
+.services {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.services li {
+  background-color: #dddddd;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.services li h3 {
+  font-size: 1.2em;
+  margin-top: 0;
+}
+
+.services li p {
+  margin-top: 10px;
+}
+
+.contact {
+  margin: 20px;
+}
+
+.contact form {
+  width: 400px;
+}
+
+.contact input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+.contact button {
+  background-color: #0000ff;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px;
+}
+
+.social-media {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-media li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.social-media li a {
+  color: white;
+  text-decoration: none;
+}
+
+.social-media li a:hover {
+  color: #0000ff;
+}
+body {
+  font-family: Sawarabi Gothic, sans-serif;
+}
